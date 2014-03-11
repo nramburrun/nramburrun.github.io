@@ -3,5 +3,5 @@ div li {
   border:solid blue;
   border-width: 10px;
   border-radius: 25px;
-  display: inline-block;
+  display: block;
 }
