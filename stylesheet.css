@@ -1,3 +1,5 @@
-#left {
+.left {
+  list-style:none;
+  border:25px solid blue;
   
 }
