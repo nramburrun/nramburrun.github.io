@@ -4,5 +4,5 @@ div li {
   border-width: 10px;
   border-radius: 25px;
   border-height:100px;
-  display:inline;
+  display:inline-flex;
 }
