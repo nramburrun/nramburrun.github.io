@@ -1,6 +1,7 @@
 div li {
   list-style-type:none;
-  border:5px solid blue;
+  border:solid blue;
   border-width: 10px;
+  border-radius: 25px;
   border-height:100px;
 }
