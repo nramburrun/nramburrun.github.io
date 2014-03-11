@@ -1,6 +1,6 @@
 .left {
-  list-style:none;
-  border:25px solid blue;
-  border-width: 50px;
+  list-style-type:none;
+  border:5px solid blue;
+  border-width: 10px;
   border-height:100px;
 }
