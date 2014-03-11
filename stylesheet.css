@@ -3,6 +3,5 @@ div li {
   border:solid blue;
   border-width: 10px;
   border-radius: 25px;
-  border-height:100px;
-  display:inline-flex;
+  display: inline-block;
 }
